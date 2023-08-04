@@ -1,0 +1,84 @@
+
+=================================================
+| Detailed information about processes.
++--------------------------------------
+Process ID: PN1
+  Priority: 3
+  CPU burst: 2
+  Arrival Time: 0
+  Start Time: 14
+  Termination Time: 16
+  Turn around Time: 16
+  Waiting Time: 14
+  Response Time: 14
+
+Process ID: PN2
+  Priority: 2
+  CPU burst: 3
+  Arrival Time: 2
+  Start Time: 4
+  Termination Time: 13
+  Turn around Time: 11
+  Waiting Time: 8
+  Response Time: 2
+
+Process ID: PN3
+  Priority: 4
+  CPU burst: 2
+  Arrival Time: 4
+  Start Time: 17
+  Termination Time: 19
+  Turn around Time: 15
+  Waiting Time: 13
+  Response Time: 13
+
+Process ID: PN4
+  Priority: 1
+  CPU burst: 3
+  Arrival Time: 0
+  Start Time: 0
+  Termination Time: 3
+  Turn around Time: 3
+  Waiting Time: 0
+  Response Time: 0
+
+Process ID: PN5
+  Priority: 1
+  CPU burst: 2
+  Arrival Time: 5
+  Start Time: 6
+  Termination Time: 8
+  Turn around Time: 3
+  Waiting Time: 1
+  Response Time: 1
+
+Process ID: PN6
+  Priority: 2
+  CPU burst: 1
+  Arrival Time: 6
+  Start Time: 9
+  Termination Time: 10
+  Turn around Time: 4
+  Waiting Time: 3
+  Response Time: 3
+
+Process ID: PN7
+  Priority: 4
+  CPU burst: 3
+  Arrival Time: 10
+  Start Time: 20
+  Termination Time: 23
+  Turn around Time: 13
+  Waiting Time: 10
+  Response Time: 10
+
+=================================================
+| Scheduling criteria.
++---------------------
+Avg turnaround time = 9.285714285714286
+Avg waiting time = 7.0
+Avg response time = 6.142857142857143
+=================================================
+=================================================
+| Processes Chart:  | PN4 | CS | PN2 | CS | PN5 | CS | PN6 | CS | PN2 | CS | PN1 | CS | PN3 | CS | PN7
+=================================================
